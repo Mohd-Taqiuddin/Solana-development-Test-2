@@ -35,3 +35,16 @@ Note: If you get error with npm i then use "npm i --legacy-peer-deps"
 ```bash
 npm start
 ```
+
+## Output
+
+### Client 
+<img src="img/client.png"> <br/>
+
+### Wallet
+<img src="img/wallet.png"> <br/>
+
+### Initialising and adding data
+<img src="img/initialised.png"> <br/>
+<img src="img/addind data.png"> <br/>
+<img src="img/data added.png"> <br/>
